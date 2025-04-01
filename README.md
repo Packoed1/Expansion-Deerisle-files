@@ -1,2 +1,2 @@
 # Expansion-Deerisle-files
-expanson setup for deerisle
+Expansion setup for deerisle
