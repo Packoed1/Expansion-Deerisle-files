@@ -2,6 +2,8 @@
 
 Expansion setup for deerisle WIP.
 
+This will add default traders to deerisle.
+
 1: Stop the server.
 
 2: Install deerisle + expansion bundle.
